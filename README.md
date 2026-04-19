@@ -10,7 +10,8 @@
 </div>
 
 ## Updates
-* 25/03/2026: 🎉 We’re thrilled to release the HEAL! The [paper]() and [code]() are now open to the community.
+* 06/04/2026: 🎉 Accepted by ACL 2026 Main Conference
+* 25/03/2026: 🎉 We’re thrilled to release the HEAL! The [code](https://github.com/XMUDeepLIT/HEAL) are now open to the community.
 
 
 ## Setup
