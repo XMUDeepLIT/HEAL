@@ -107,10 +107,11 @@ We also utilize vLLM for efficient inference and build our training upon Qwen3 a
   
 ## Citation
 ```bibtex
-@article{liu2026heal,
+@inproceedings{
+  liu2026healentropycollapse,
   title={HEALing Entropy Collapse: Enhancing Exploration in Few-Shot RLVR via Hybrid-Domain Entropy Dynamics Alignment},
   author={Zhanyu Liu and Qingguo Hu and Ante Wang and Chenqing Liu and Zhishang Xiang and Hui Li and Delai Qiu and Jinsong Su},
-  journal={arXiv preprint arXiv:},
+  booktitle={Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
   year={2026}
 }
 ```
